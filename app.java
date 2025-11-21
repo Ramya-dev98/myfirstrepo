@@ -49,6 +49,6 @@ public class AddTwoIntegers {
        int second = 20;
        int sum = first + second;
        System.out.println("The sum is: " + sum);
-   }
-}
+}}
 
+new code by dev-1 without pulling dev-2 code
